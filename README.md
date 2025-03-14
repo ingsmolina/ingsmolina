@@ -22,7 +22,7 @@ Soy docente universitario en temas de **Cloud Computing, Programación Web y Arq
 ---
 
 ## 📫 Conéctate conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/) *(samuel-molina-66542965)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-molina-66542965/)
 
 ¡Gracias por visitar mi perfil! 😊
 
