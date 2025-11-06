@@ -9,6 +9,7 @@ Soy un ingeniero en sistemas apasionado por el desarrollo de software, la arquit
 - **Frontend:** StimulusJS, TailwindCSS, Angular, Ionic, Vue, Bootstrap
 - **Bases de Datos:** PostgreSQL, MySQL, MariaDB, Oracle
 - **Cloud & DevOps:** AWS (S3, EC2, Lambda, RDS, DynamoDB), Oracle Cloud, Docker, PM2, Capistrano, Claro Cloud
+- **Apps:** iOS Swift, Android Java & Kotlin, Ionic
 - **Automatización y Arquitectura:** Microservicios, Web Services, Mensajería con SQS, SNS, RabbitMQ
 - **Otros:** QDrant, AI & NLP, Modelos Cuantitativos en Python, IA y Bots.
 
